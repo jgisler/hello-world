@@ -1,2 +1,2 @@
 # hello-world
-tutorial
+tutorial The quick brown fox ...
